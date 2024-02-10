@@ -3,22 +3,24 @@
 #### 介绍
 基于nodejs的简易随机图api构建
 
-#### 软件架构
-软件架构说明
-
-
 #### 安装教程
+拉取项目
+```
+git clone gitee.com/xyzqwefd/random-image-api ./NodeAPI
+```
+进入文件夹打依赖
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+```
+pnpm i
+```
+启动项目
+```
+node app
+```
+
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+还没写
 #### 参与贡献
 
 1.  Fork 本仓库
